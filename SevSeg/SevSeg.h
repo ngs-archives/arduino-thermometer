@@ -12,7 +12,7 @@
 #include "WProgram.h"
 #endif
 
-#define NUM_DIGITS 4
+#define NUM_DIGITS 3
 
 class SevSeg
 {
@@ -49,4 +49,3 @@ private:
 };
 
 #endif
-
